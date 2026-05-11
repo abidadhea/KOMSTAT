@@ -1,4 +1,6 @@
 summary(mtcars)
 mean(mtcars$mpg)
 sd(mtcars$mpg)
-max(mcars$mpg)
+max(mtcars$mpg) 
+min(mtcars$mpg)
+length(mtcars)
