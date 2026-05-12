@@ -1,3 +1,7 @@
 summary(mtcars)
 mean(mtcars$mpg)
 min(mtcars$mpg)
+max(mtcars$disp)
+hist(mtcars$cyl)
+boxplot(mtcars)
+length(mtcars$am)
